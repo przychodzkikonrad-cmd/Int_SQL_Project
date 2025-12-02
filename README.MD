@@ -6,7 +6,7 @@
 I segmented the user base into High, Mid, and Low value tiers based on Lifetime Value (LTV) to identify where the revenue truly comes from.
 
 **Visualization:**
-<img src="resources/6.3_customer_segementation.png" alt="Customer Segmentation" width="90%">
+<img src="Resources/6.3_customer_segementation.png" alt="Customer Segmentation" width="90%">
 
 
 **Key Findings:**
@@ -23,7 +23,7 @@ Prioritize the top 12,372 VIP customers with a **Premium Membership Program**. L
 This module tracks revenue trends based on when customers joined the platform (Year of First Purchase).
 
 **Visualizations:**
-<img src="resources/5.2_customer_revenue_normalized.PNG" alt="Customer Segmentation" width="90%">
+<img src="Resources/5.2_customer_revenue_normalized.PNG" alt="Customer Segmentation" width="90%">
 <img src="../Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Trends" width="50%">
 
 **Key Findings:**
@@ -40,7 +40,7 @@ Investigate the onboarding process for the 2022-2024 cohorts. We need to apply t
 Here, I analyzed the "Leaky Bucket" problem—identifying when and why customers stop purchasing.
 
 **Visualization:**
-<img src="resources/7.3_customer_churn_cohort_year.png" alt="Churn Analysis" style="width: 90%; height: auto;">
+<img src="Resources/7.3_customer_churn_cohort_year.png" alt="Churn Analysis" style="width: 90%; height: auto;">
 
 **Key Findings:**
 * **Systemic Churn:** Retention consistently drops to ~8-10% across all cohorts.
