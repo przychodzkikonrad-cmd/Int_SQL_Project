@@ -40,7 +40,7 @@ Investigate the onboarding process for the 2022-2024 cohorts. We need to apply t
 Here, I analyzed the "Leaky Bucket" problem—identifying when and why customers stop purchasing.
 
 **Visualization:**
-<img src="Resources/7.3_customer_churn_cohort_year.png" alt="Churn Analysis" style="width: 90%; height: auto;">
+<img src="Resources/7.3.png" alt="Churn Analysis" style="width: 90%; height: auto;">
 
 **Key Findings:**
 * **Systemic Churn:** Retention consistently drops to ~8-10% across all cohorts.
