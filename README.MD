@@ -23,7 +23,7 @@ Prioritize the top 12,372 VIP customers with a **Premium Membership Program**. L
 This module tracks revenue trends based on when customers joined the platform (Year of First Purchase).
 
 **Visualizations:**
-<img src="Resources/5.2_customer_revenue_normalized.PNG" alt="Customer Segmentation" width="90%">
+<img src="Resources/5.2_customer_revenue_normalized.png" alt="Customer Segmentation" width="90%">
 <img src="Resources/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Trends" width="50%">
 
 **Key Findings:**
