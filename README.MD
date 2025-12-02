@@ -1,7 +1,7 @@
 ## 📊 Analysis & Business Intelligence
 
 ### 1. Value Segmentation (The Pareto Analysis)
-**Script:** [1_customer_segmentation.sql](1_customer_segmentation.sql)
+**Script:** [1_Customer_Segmentation.sql](1_Customer_Segmentation.sql)
 
 I segmented the user base into High, Mid, and Low value tiers based on Lifetime Value (LTV) to identify where the revenue truly comes from.
 
@@ -18,7 +18,7 @@ I segmented the user base into High, Mid, and Low value tiers based on Lifetime 
 Prioritize the top 12,372 VIP customers with a **Premium Membership Program**. Losing even a small fraction of this group would be catastrophic for the bottom line. For the Mid-Value segment, implement "Upgrade Paths" (upselling) to unlock a potential $68M in growth.
 
 ### 2. Cohort Performance (Vintage Analysis)
-**Script:**  [2_cohort_analysis.sql](2_cohort_analysis.sql)
+**Script:**  [2_Cohort_Analysis.sql](2_Cohort_Analysis.sql)
 
 This module tracks revenue trends based on when customers joined the platform (Year of First Purchase).
 
@@ -35,7 +35,7 @@ This module tracks revenue trends based on when customers joined the platform (Y
 Investigate the onboarding process for the 2022-2024 cohorts. We need to apply the engagement strategies that worked for the "Golden Era" (2016-2018) users to the newer customers to arrest the decline in spending.
 
 ### 3. Retention & Churn Risk
-**Script:** [3_retention_analysis.sql](3_retention_analysis.sql)
+**Script:** [3_Retention_Analysis.sql](3_Retention_Analysis.sql)
 
 Here, I analyzed the "Leaky Bucket" problem—identifying when and why customers stop purchasing.
 
