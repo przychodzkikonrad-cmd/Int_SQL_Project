@@ -24,7 +24,7 @@ This module tracks revenue trends based on when customers joined the platform (Y
 
 **Visualizations:**
 <img src="Resources/5.2_customer_revenue_normalized.PNG" alt="Customer Segmentation" width="90%">
-<img src="../Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Trends" width="50%">
+<img src="Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Trends" width="50%">
 
 **Key Findings:**
 * **Value Erosion:** Older cohorts (2016-2018) spent ~$2,800+ per user, while the 2024 cohort averages only ~$1,970.
